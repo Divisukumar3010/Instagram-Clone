@@ -98,26 +98,6 @@ body{
         height: 55px;
         border-radius: 14px;
     }
-    .suggestions{
-        border: 1px solid rgb(255, 0, 0);
-        height: 350px;
-        width: 385px;
-    }
-    .suggestions-img{
-        width: 80px;
-        margin-left: 14px;
-        border-radius: 80%;
-    }
-    .suggestions-profile{
-        height: 5px;
-        border: 1px solid black;
-    }
-    .h3{
-        color: rgb(99, 96, 96);
-        font-family: arial;
-        font-size: 14px;
-        margin-left: 14px;
-    }
 }
 
 @media(max-width:990px){
